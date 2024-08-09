@@ -1,2 +1,3 @@
 # 拉去jenkins
-registry.hub.docker.com/jenkins/jenkins:lts
+# registry.hub.docker.com/jenkins/jenkins:lts
+docker.io/nginx
